@@ -4,7 +4,6 @@ import { NavigationContainer } from '@react-navigation/native';
 
 import Incidents from './pages/Incidents';
 import Detail from './pages/Detail';
-import App from '../App';
 
 const AppStack = createStackNavigator()
 
